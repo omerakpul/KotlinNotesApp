@@ -5,8 +5,8 @@
 -->
 <data-extraction-rules>
     <cloud-backup>
-        <include .../>
-        <exclude .../>
+        <include />
+        <exclude />
         -->
     </cloud-backup>
     <!--
